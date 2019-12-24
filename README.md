@@ -1,1 +1,1 @@
-## Selectiom of notebooks about deep learning in Python
+## Selectiom of notebooks about different types of deep learning in Python
