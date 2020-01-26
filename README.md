@@ -1,4 +1,4 @@
-## Selection of notebooks using TensorFlow in Python for image classification, regression and time series forecasting
+## Selection of notebooks using TensorFlow 2.0 in Python for image classification, regression and time series forecasting
 
 The notebooks are written in Python, Tensorflow 2.0 and Keras
 
